@@ -12,3 +12,7 @@ Basic level codes
 
 ## Hypothesis testing
 hypothesis testing, chiSquare..
+
+## EDA1
+imputation, deletion, manipulating outliers, dropping columns, heatmaps...
+
