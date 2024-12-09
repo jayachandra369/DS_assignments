@@ -16,3 +16,5 @@ hypothesis testing, chiSquare..
 ## EDA1
 imputation, deletion, manipulating outliers, dropping columns, heatmaps...
 
+## MLR
+Bulid 3 MLR models, EDA, Lasso & Ridge reguralization
