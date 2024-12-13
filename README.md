@@ -21,3 +21,6 @@ Bulid 3 MLR models, EDA, Lasso & Ridge reguralization
 
 ## Logistic Regression
 EDA, building model, confusion matrix, ROC curve
+
+## Clustering
+EDA, KMeans, Hierarchical, DBSCAN, silhouette score
