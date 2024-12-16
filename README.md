@@ -24,3 +24,6 @@ EDA, building model, confusion matrix, ROC curve
 
 ## Clustering
 EDA, KMeans, Hierarchical, DBSCAN, silhouette score
+
+## Association Rules
+Apriori, Support, Confidence, Lift Ration
