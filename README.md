@@ -27,3 +27,6 @@ EDA, KMeans, Hierarchical, DBSCAN, silhouette score
 
 ## Association Rules
 Apriori, Support, Confidence, Lift Ration
+
+## EDA2
+Data Exploration & preprocessing, Onehot encoding, Label encoding, Feature engineering, Isolation Forest Algo, ppscore(predictive power score).
