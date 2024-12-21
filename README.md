@@ -33,3 +33,6 @@ Data Exploration & preprocessing, Onehot encoding, Label encoding, Feature engin
 
 ## PCA
 Dimension reduction, Clustering, Comparing with original data vs PCA data
+
+## Reommendation System
+preprocessing, feature engineering, model, accuracy
