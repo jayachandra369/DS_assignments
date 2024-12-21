@@ -30,3 +30,6 @@ Apriori, Support, Confidence, Lift Ration
 
 ## EDA2
 Data Exploration & preprocessing, Onehot encoding, Label encoding, Feature engineering, Isolation Forest Algo, ppscore(predictive power score).
+
+## PCA
+Dimension reduction, Clustering, Comparing with original data vs PCA data
