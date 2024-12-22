@@ -36,3 +36,6 @@ Dimension reduction, Clustering, Comparing with original data vs PCA data
 
 ## Reommendation System
 preprocessing, feature engineering, model, accuracy
+
+## Decision Tree
+EDA, Feature Engineering, entropy, Gini Impurity, Accuarcy
