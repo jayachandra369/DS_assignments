@@ -39,3 +39,6 @@ preprocessing, feature engineering, model, accuracy
 
 ## Decision Tree
 EDA, Feature Engineering, entropy, Gini Impurity, Accuarcy
+
+## Random Forest
+Random Forest, Bagging, Boosting
