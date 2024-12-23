@@ -42,3 +42,6 @@ EDA, Feature Engineering, entropy, Gini Impurity, Accuarcy
 
 ## Random Forest
 Random Forest, Bagging, Boosting
+
+## XGBM & LGBM
+Boosting, hyperparameter manipulations
