@@ -49,3 +49,7 @@ Boosting, hyperparameter manipulations
 ## Support Vector Machine
 
 Kernel, gamma, Reguralization parameter.
+
+## KNN
+
+Metric, K.
