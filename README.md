@@ -45,3 +45,7 @@ Random Forest, Bagging, Boosting
 
 ## XGBM & LGBM
 Boosting, hyperparameter manipulations
+
+## Support Vector Machine
+
+Kernel, gamma, Reguralization parameter.
