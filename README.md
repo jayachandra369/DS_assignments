@@ -57,3 +57,7 @@ Metric, K.
 ## Neural Networks
 
 Basic Model, Hyper parameter Tuning
+
+## NLP & Naive Bayes
+
+Naive Bayes classification, Sentiment Analysis.
