@@ -53,3 +53,7 @@ Kernel, gamma, Reguralization parameter.
 ## KNN
 
 Metric, K.
+
+## Neural Networks
+
+Basic Model, Hyper parameter Tuning
