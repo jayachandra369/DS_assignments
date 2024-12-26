@@ -61,3 +61,7 @@ Basic Model, Hyper parameter Tuning
 ## NLP & Naive Bayes
 
 Naive Bayes classification, Sentiment Analysis.
+
+## Time Series Analysis
+
+ARIMA, Exponential Smoothing.
